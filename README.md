@@ -1,6 +1,6 @@
 # PezzaliAPP // screensaver
 
-**Live:** https://pezzaliapp.github.io/screensaver/
+**Live:** https://www.alessandropezzali.it/screensaver/
 
 Migliaia di particelle fluttuano in un flusso invisibile, poi si radunano a formare il logo **PezzaliAPP** e, a turno, le righe di codice che le muovono davvero. Poi si sciolgono e ricominciano.
 
@@ -10,7 +10,7 @@ Migliaia di particelle fluttuano in un flusso invisibile, poi si radunano a form
 
 ## Usarlo come screensaver
 
-- **macOS:** installa [WebViewScreenSaver](https://github.com/liquidx/webviewscreensaver) (gratis, open source) e imposta come indirizzo `https://pezzaliapp.github.io/screensaver/`
+- **macOS:** installa [WebViewScreenSaver](https://github.com/liquidx/webviewscreensaver) (gratis, open source) e imposta come indirizzo `https://www.alessandropezzali.it/screensaver/`
 - **Qualsiasi computer:** apri il link nel browser e metti lo schermo intero
 
 ## Font
